@@ -118,7 +118,7 @@ def form_edit(request,pk=id):
     return render(request,"form.html",locals())
     
          
-
+def sample(request):
 
 
     
